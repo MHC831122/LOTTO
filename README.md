@@ -1,0 +1,2 @@
+# LOTTO
+Lotto Prediction Program
